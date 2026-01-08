@@ -1,2 +1,8 @@
-# ml_leaning_journey
-My daily Machine Learning learning journey with notes, code, and insights.
+# ML Learning Journey
+
+This repository documents my step-by-step learning in Machine Learning
+as part of my Data Science journey.
+
+## Topics Covered
+- Regression
+  - Simple Linear Regression (Day 1)
